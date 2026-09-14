@@ -42,7 +42,7 @@ Este proyecto contiene una implementación funcional en Python de un **Árbol de
 Al ejecutar `merkle_tree.py`:
 1. Muestra la **Merkle Root** original y el **Diagrama del Árbol**.
 2. Altera el Bloque 1 para demostrar el **Efecto Avalancha** (la raíz cambia por completo).
-3. Permite presionar **Enter** para verificar el **Bloque 3** (predeterminado de la guía) o digitar el número de cualquier otro bloque (1 al 5).Por si quiere hacer pruebas con otro bloque diferente al bloque pedido en el laboratorio.
+3. Permite presionar **Enter** para verificar el **Bloque 3** (predeterminado y pedido en la indicación del lab2) o digitar el número de cualquier otro bloque (1 al 5). Por si quiere hacer pruebas con otro bloque diferente al bloque pedido en el laboratorio.
 4. Corre de forma automática:
    * **Prueba con dato real** → Retorna `True`.
    * **Prueba con dato alterado** → Retorna `False`.
